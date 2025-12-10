@@ -15,3 +15,11 @@ Basic Cyber(source: my uni course: Computer Security Fundamental):
 8. Malicious Software
 9. Basic Shell Scripting
 10. Regular Expression
+
+Plan Projects:
+- HackTheBox
+- TryHackMe
+- PicoCTF
+- Proving ground
+- Vulnhub
+- Others…
