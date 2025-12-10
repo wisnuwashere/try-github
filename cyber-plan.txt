@@ -1,0 +1,5 @@
+Fundamental IT Skills:
+1. Computer Hardware Components
+2. Basics of Computer Network
+3. Connection Types(NFC, WiFi, Bluetooth, Infared)
+4. OS independent troubleshooting
