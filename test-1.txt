@@ -1,4 +1,4 @@
-**Our main goal**
+Our main goal:
 1. Be a skillful cyber security in red team
 2. Skillful in coding specific programming language as revenge to algorithm and programming failure in uni
 3. survive
