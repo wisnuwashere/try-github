@@ -1,0 +1,31 @@
+Planning to learn: 
+- python(priority)
+- Bash
+- C/C++ (priority)
+- Javascript
+- Ruby
+
+My learning code flow:
+1. Introduction to Programming Language
+2. Formatted Input / Output 
+3. Operator, Operand, and Arithmetic
+4. Program Control: Selection 
+5. Program Control: Repetition
+6. Function and Recursion
+7. Structure and union
+7. File Processing
+8. Sorting and Searching 
+
+My data structure learning flow:
+1. Pointer and Array Review 
+2. Linked list
+3. Stack and Queue
+4. Hashing and hash tables 
+5. Trees and binary tree
+6. Binary search tree
+7. AVL tree
+8. B-tree
+9. Red black tree
+10. Heaps
+11. Disjoints set
+12. Graphs
