@@ -3,3 +3,15 @@ Fundamental IT Skills:
 2. Basics of Computer Network
 3. Connection Types(NFC, WiFi, Bluetooth, Infared)
 4. OS independent troubleshooting
+
+Basic Cyber(source: my uni course: Computer Security Fundamental):
+1. Computer Security Concept 
+2. Servers Technology
+3. Database Security
+4. User Authenrication
+5. User Acces Control
+6. Cryptography
+7. Denial Of Service Attack
+8. Malicious Software
+9. Basic Shell Scripting
+10. Regular Expression
